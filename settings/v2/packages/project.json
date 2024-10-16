@@ -1,0 +1,14 @@
+{
+  "general": {
+    "designResolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "layer": [
+    {
+      "name": "UI_Camera",
+      "value": 1
+    }
+  ]
+}
